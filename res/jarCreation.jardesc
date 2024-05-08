@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="/Users/abhishekkumar/Downloads/KillTarget.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/cs5010-project-abhishekkr0550/res/jarCreation.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=cs5010-project-abhishekkr0550/src&lt;driver{WorldDriver.java[WorldDriver" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=cs5010-project-abhishekkr0550/src"/>
+        <folder path="/cs5010-project-abhishekkr0550/res"/>
+        <file path="/cs5010-project-abhishekkr0550/.classpath"/>
+        <file path="/cs5010-project-abhishekkr0550/Archive.zip"/>
+        <javaElement handleIdentifier="=cs5010-project-abhishekkr0550/test"/>
+        <file path="/cs5010-project-abhishekkr0550/.gitignore"/>
+        <file path="/cs5010-project-abhishekkr0550/README.md"/>
+        <file path="/cs5010-project-abhishekkr0550/.project"/>
+        <file path="/cs5010-project-abhishekkr0550/.DS_Store"/>
+    </selectedElements>
+</jardesc>

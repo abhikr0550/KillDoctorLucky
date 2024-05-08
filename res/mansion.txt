@@ -1,0 +1,12 @@
+36 30 Doctor Lucky's Mansion
+50 Doctor Lucky
+Fortune the Cat
+7
+5 5 7 7 One
+2 5 4 10 Two
+5 8 7 10 Three
+8 5 10 7 Four
+5 11 7 13 Five
+8 9 10 10 Six
+2 11 4 13 Seven
+0

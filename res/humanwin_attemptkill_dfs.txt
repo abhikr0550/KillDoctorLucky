@@ -1,0 +1,141 @@
+Choose option:
+ShowWorldGraph:
+AddPlayer
+Move
+PickItem
+LookAround
+MovePet
+Attack
+AddPlayer
+Enter Player's name:
+Abhishek
+Enter the landing room for Abhishek:
+Armory
+Enter Max Limit:
+3
+Are you a human: yes or no
+yes
+Player Successfully Added.
+
+Player please play your turn. Your details are:
+Player : Abhishek
+Room Name : Armory
+Target present in the room : true
+Neighbours : [Billiard Room, Dining Hall, Drawing Room]
+Items in the room : [(ItemName=Revolver, value=3)]
+Players in the room: [Abhishek]
+Items Carrying : []
+Target is present in Armory
+Fortune the Cat present in the room : true
+
+Choose option:
+ShowWorldGraph:
+AddPlayer
+Move
+PickItem
+LookAround
+MovePet
+Attack
+
+AddPlayer
+Enter Player's name:
+Billiard Room
+Enter the landing room for Billiard Room:
+Billiard Room
+Enter Max Limit:
+3
+Are you a human: yes or no
+no
+Player Successfully Added.
+
+Player please play your turn. Your details are:
+Player : Abhishek
+Room Name : Armory
+Target present in the room : true
+Neighbours : [Billiard Room, Dining Hall, Drawing Room]
+Items in the room : [(ItemName=Revolver, value=3)]
+Players in the room: [Abhishek]
+Items Carrying : []
+Target is present in Armory
+Fortune the Cat present in the room : true
+
+Choose option:
+ShowWorldGraph:
+AddPlayer
+Move
+PickItem
+LookAround
+MovePet
+Attack
+
+AddPlayer
+Enter Player's name:
+Richard
+Enter the landing room for Richard:Carriage House
+Enter Max Limit:
+3
+Are you a human: yes or no
+yes
+Player Successfully Added.
+
+Player please play your turn. Your details are:
+Player : Abhishek
+Room Name : Armory
+Target present in the room : true
+Neighbours : [Billiard Room, Dining Hall, Drawing Room]
+Items in the room : [(ItemName=Revolver, value=3)]
+Players in the room: [Abhishek]
+Items Carrying : []
+Target is present in Armory
+Fortune the Cat present in the room : true
+
+Choose option:
+ShowWorldGraph:
+AddPlayer
+Move
+PickItem
+LookAround
+MovePet
+Attack
+
+Attack
+Enter the item to use:poke
+Cannot attempt the Attack as someone is watching you!
+
+Player please play your turn. Your details are:
+Player : Billiard Room
+Room Name : Billiard Room
+Target present in the room : true
+Neighbours : [Armory, Dining Hall, Trophy Room]
+Items in the room : [(ItemName=Billiard Cue, value=2)]
+Players in the room: [Billiard Room]
+Items Carrying : []
+Target is present in Billiard Room
+Fortune the Cat present in the room : true
+
+Cannot attempt the Attack as someone is watching you!
+
+Player please play your turn. Your details are:
+Player : Richard
+Room Name : Carriage House
+Target present in the room : true
+Neighbours : [Winter Garden]
+Items in the room : [(ItemName=Chain Saw, value=4), (ItemName=Big Red Hammer, value=4)]
+Players in the room: [Richard]
+Items Carrying : []
+Target is present in Carriage House
+Fortune the Cat present in the room : false
+
+Choose option:
+ShowWorldGraph:
+AddPlayer
+Move
+PickItem
+LookAround
+MovePet
+Attack
+
+Attack
+Enter the item to use:poke
+
+Game Over!! Richard wins the game.

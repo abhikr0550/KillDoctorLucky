@@ -1,0 +1,212 @@
+Choose option:
+ShowWorldGraph:
+AddPlayer
+Move
+PickItem
+LookAround
+MovePet
+Attack
+AddPlayer
+Enter Player's name:
+Abhishek
+Enter the landing room for Abhishek:
+Kitchen
+Enter Max Limit:
+3
+Are you a human: yes or no
+yes
+Player Successfully Added.
+
+Player please play your turn. Your details are:
+Player : Abhishek
+Room Name : Kitchen
+Target present in the room : false
+Neighbours : [Dining Hall, Parlor, Wine Cellar]
+Items in the room : [(ItemName=Crepe Pan, value=3), (ItemName=Sharp Knife, value=3)]
+Players in the room: [Abhishek]
+Items Carrying : []
+Target is present in Armory
+Fortune the Cat present in the room : false
+
+Choose option:
+ShowWorldGraph:
+AddPlayer
+Move
+PickItem
+LookAround
+MovePet
+Attack
+
+AddPlayer
+Enter Player's name:
+Comp1
+Enter the landing room for Comp1:
+Piazza
+Enter Max Limit:
+2
+Are you a human: yes or no
+no
+Player Successfully Added.
+
+Player please play your turn. Your details are:
+Player : Abhishek
+Room Name : Kitchen
+Target present in the room : false
+Neighbours : [Dining Hall, Parlor, Wine Cellar]
+Items in the room : [(ItemName=Crepe Pan, value=3), (ItemName=Sharp Knife, value=3)]
+Players in the room: [Abhishek]
+Items Carrying : []
+Target is present in Armory
+Fortune the Cat present in the room : false
+
+Choose option:
+ShowWorldGraph:
+AddPlayer
+Move
+PickItem
+LookAround
+MovePet
+Attack
+
+AddPlayer
+Enter Player's name:
+Comp2
+Enter the landing room for Comp2:
+Lancaster Room
+Enter Max Limit:
+2
+Are you a human: yes or nono
+Player Successfully Added.
+Player please play your turn. Your details are:
+Player : Abhishek
+Room Name : Kitchen
+Target present in the room : false
+Neighbours : [Dining Hall, Parlor, Wine Cellar]
+Items in the room : [(ItemName=Crepe Pan, value=3), (ItemName=Sharp Knife, value=3)]
+Players in the room: [Abhishek]
+Items Carrying : []
+Target is present in Armory
+Fortune the Cat present in the room : false
+
+Choose option:
+ShowWorldGraph:
+AddPlayer
+Move
+PickItem
+LookAround
+MovePet
+Attack
+
+MovePet
+Enter room name:
+Parlor
+
+Fortune the Cat moved to Parlor.
+
+Player please play your turn. Your details are:
+Player : Comp1
+Room Name : Piazza
+Target present in the room : false
+Neighbours : [Foyer, Hedge Maze, Winter Garden]
+Items in the room : [(ItemName=Civil War Cannon, value=3)]
+Players in the room: [Comp1]
+Items Carrying : []
+Target is present in Billiard Room
+Fortune the Cat present in the room : false
+
+Comp1 picked up Civil War Cannon Successfully.
+
+Player please play your turn. Your details are:
+Player : Comp2
+Room Name : Lancaster Room
+Target present in the room : false
+Neighbours : [Lilac Room, Servants' Quarters]
+Items in the room : [(ItemName=Silken Cord, value=3)]
+Players in the room: [Comp2]
+Items Carrying : []
+Target is present in Carriage House
+Fortune the Cat present in the room : false
+
+Comp2 picked up Silken Cord Successfully.
+
+Player please play your turn. Your details are:
+Player : Abhishek
+Room Name : Kitchen
+Target present in the room : false
+Neighbours : [Dining Hall, Parlor, Wine Cellar]
+Items in the room : [(ItemName=Crepe Pan, value=3), (ItemName=Sharp Knife, value=3)]
+Players in the room: [Abhishek]
+Items Carrying : []
+Target is present in Dining Hall
+Fortune the Cat present in the room : false
+
+Choose option:
+ShowWorldGraph:
+AddPlayer
+Move
+PickItem
+LookAround
+MovePet
+Attack
+
+MovePet
+Enter room name:
+Armory
+
+Fortune the Cat moved to Armory.
+
+Player please play your turn. Your details are:
+Player : Comp1
+Room Name : Piazza
+Target present in the room : false
+Neighbours : [Foyer, Hedge Maze, Winter Garden]
+Items in the room : []
+Players in the room: [Comp1]
+Items Carrying : [(ItemName=Civil War Cannon, value=3)]
+Target is present in Drawing Room
+Fortune the Cat present in the room : false
+
+No item present in the room.
+
+Player please play your turn. Your details are:
+Player : Comp1
+Room Name : Piazza
+Target present in the room : false
+Neighbours : [Foyer, Hedge Maze, Winter Garden]
+Items in the room : []
+Players in the room: [Comp1]
+Items Carrying : [(ItemName=Civil War Cannon, value=3)]
+Target is present in Drawing Room
+Fortune the Cat present in the room : false
+
+Comp1 is present in Piazza
+Room Name : Piazza
+Target present in the room : false
+Neighbours : [Foyer, Hedge Maze, Winter Garden]
+Items in the room : []
+Players in the room: [Comp1]
+
+Neighbours are:
+1.
+Room Name : Foyer
+Target present in the room : false
+Neighbours : [Drawing Room, Piazza]
+Items in the room : []
+Players in the room: []
+
+2.
+Room Name : Hedge Maze
+Target present in the room : false
+Neighbours : [Green House, Piazza]
+Items in the room : [(ItemName=Loud Noise, value=2)]
+Players in the room: []
+
+3.
+Room Name : Winter Garden
+Target present in the room : false
+Neighbours : [Carriage House, Piazza]
+Items in the room : []
+Players in the room: []
+
+
+Game Over!! Target Escaped from the world!!

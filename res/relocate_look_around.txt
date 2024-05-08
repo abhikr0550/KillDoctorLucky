@@ -1,0 +1,637 @@
+Choose option:
+ShowWorldGraph:
+AddPlayer
+Move
+PickItem
+LookAround
+MovePet
+Attack
+AddPlayer
+Enter Player's name:
+Abhishek
+Enter the landing room for Abhishek:Billiard Room
+Enter Max Limit:
+3
+Are you a human: yes or noyes
+Player Successfully Added.
+Player please play your turn. Your details are:
+Player : Abhishek
+Room Name : Billiard Room
+Target present in the room : false
+Neighbours : [Dining Hall, Trophy Room]
+Items in the room : [(ItemName=Billiard Cue, value=2)]
+Players in the room: [Abhishek]
+Items Carrying : []
+Target is present in Armory
+Fortune the Cat present in the room : false
+
+Choose option:
+ShowWorldGraph:
+AddPlayer
+Move
+PickItem
+LookAround
+MovePet
+Attack
+AddPlayer
+Enter Player's name:
+Comp1
+Enter the landing room for Comp1:Armory
+Enter Max Limit:
+3
+Are you a human: yes or nono
+Player Successfully Added.
+Player please play your turn. Your details are:
+Player : Abhishek
+Room Name : Billiard Room
+Target present in the room : false
+Neighbours : [Dining Hall, Trophy Room]
+Items in the room : [(ItemName=Billiard Cue, value=2)]
+Players in the room: [Abhishek]
+Items Carrying : []
+Target is present in Armory
+Fortune the Cat present in the room : false
+
+Choose option:
+ShowWorldGraph:
+AddPlayer
+Move
+PickItem
+LookAround
+MovePet
+Attack
+AddPlayer
+Enter Player's name:
+Comp2
+Enter the landing room for Comp2:Lancaster Room
+Enter Max Limit:
+3
+Are you a human: yes or nono
+Player Successfully Added.
+Player please play your turn. Your details are:
+Player : Abhishek
+Room Name : Billiard Room
+Target present in the room : false
+Neighbours : [Dining Hall, Trophy Room]
+Items in the room : [(ItemName=Billiard Cue, value=2)]
+Players in the room: [Abhishek]
+Items Carrying : []
+Target is present in Armory
+Fortune the Cat present in the room : false
+
+Choose option:
+ShowWorldGraph:
+AddPlayer
+Move
+PickItem
+LookAround
+MovePet
+Attack
+AddPlayer
+Enter Player's name:
+Piazza
+Enter the landing room for Piazza:Piazza
+Enter Max Limit:
+3
+Are you a human: yes or nono
+Player Successfully Added.
+Player please play your turn. Your details are:
+Player : Abhishek
+Room Name : Billiard Room
+Target present in the room : false
+Neighbours : [Dining Hall, Trophy Room]
+Items in the room : [(ItemName=Billiard Cue, value=2)]
+Players in the room: [Abhishek]
+Items Carrying : []
+Target is present in Armory
+Fortune the Cat present in the room : false
+
+Choose option:
+ShowWorldGraph:
+AddPlayer
+Move
+PickItem
+LookAround
+MovePet
+Attack
+LookAround
+Abhishek is present in Billiard Room
+Room Name : Billiard Room
+Target present in the room : false
+Neighbours : [Dining Hall, Trophy Room]
+Items in the room : [(ItemName=Billiard Cue, value=2)]
+Players in the room: [Abhishek]
+
+Neighbours are:
+1.
+Room Name : Dining Hall
+Target present in the room : false
+Neighbours : [Billiard Room, Drawing Room, Kitchen, Parlor, Tennessee Room, Trophy Room, Wine Cellar]
+Items in the room : []
+Players in the room: []
+
+2.
+Room Name : Trophy Room
+Target present in the room : false
+Neighbours : [Tennessee Room, Library, Dining Hall, Billiard Room]
+Items in the room : [(ItemName=Duck Decoy, value=3), (ItemName=Monkey Hand, value=2)]
+Players in the room: []
+
+
+Player please play your turn. Your details are:
+Player : Comp1
+Room Name : Armory
+Target present in the room : false
+Neighbours : [Dining Hall, Drawing Room]
+Items in the room : [(ItemName=Revolver, value=3)]
+Players in the room: [Comp1]
+Items Carrying : []
+Target is present in Billiard Room
+Fortune the Cat present in the room : false
+
+Comp1 picked up Revolver Successfully.Player please play your turn. Your details are:
+Player : Comp2
+Room Name : Lancaster Room
+Target present in the room : false
+Neighbours : [Lilac Room, Servants' Quarters]
+Items in the room : [(ItemName=Silken Cord, value=3)]
+Players in the room: [Comp2]
+Items Carrying : []
+Target is present in Carriage House
+Fortune the Cat present in the room : false
+
+Something is wrong
+Player please play your turn. Your details are:
+Player : Comp2
+Room Name : Lancaster Room
+Target present in the room : false
+Neighbours : [Lilac Room, Servants' Quarters]
+Items in the room : [(ItemName=Silken Cord, value=3)]
+Players in the room: [Comp2]
+Items Carrying : []
+Target is present in Carriage House
+Fortune the Cat present in the room : false
+
+Comp2 moved to Lilac Room Successfully.
+Player please play your turn. Your details are:
+Player : Piazza
+Room Name : Piazza
+Target present in the room : false
+Neighbours : [Foyer, Hedge Maze, Winter Garden]
+Items in the room : [(ItemName=Civil War Cannon, value=3)]
+Players in the room: [Piazza]
+Items Carrying : []
+Target is present in Dining Hall
+Fortune the Cat present in the room : false
+
+Piazza is present in Piazza
+Room Name : Piazza
+Target present in the room : false
+Neighbours : [Foyer, Hedge Maze, Winter Garden]
+Items in the room : [(ItemName=Civil War Cannon, value=3)]
+Players in the room: [Piazza]
+
+Neighbours are:
+1.
+Room Name : Foyer
+Target present in the room : false
+Neighbours : [Piazza]
+Items in the room : []
+Players in the room: []
+
+2.
+Room Name : Hedge Maze
+Target present in the room : false
+Neighbours : [Green House, Piazza]
+Items in the room : [(ItemName=Loud Noise, value=2)]
+Players in the room: []
+
+3.
+Room Name : Winter Garden
+Target present in the room : false
+Neighbours : [Carriage House, Piazza]
+Items in the room : []
+Players in the room: []
+
+
+Player please play your turn. Your details are:
+Player : Abhishek
+Room Name : Billiard Room
+Target present in the room : false
+Neighbours : [Armory, Dining Hall, Trophy Room]
+Items in the room : [(ItemName=Billiard Cue, value=2)]
+Players in the room: [Abhishek]
+Items Carrying : []
+Target is present in Drawing Room
+Fortune the Cat present in the room : false
+
+Choose option:
+ShowWorldGraph:
+AddPlayer
+Move
+PickItem
+LookAround
+MovePet
+Attack
+
+null
+Player please play your turn. Your details are:
+Player : Abhishek
+Room Name : Billiard Room
+Target present in the room : false
+Neighbours : [Armory, Dining Hall, Trophy Room]
+Items in the room : [(ItemName=Billiard Cue, value=2)]
+Players in the room: [Abhishek]
+Items Carrying : []
+Target is present in Drawing Room
+Fortune the Cat present in the room : false
+
+Choose option:
+ShowWorldGraph:
+AddPlayer
+Move
+PickItem
+LookAround
+MovePet
+Attack
+MovePet
+Enter room name:
+Armory
+Fortune the Cat moved to Armory.
+Player please play your turn. Your details are:
+Player : Comp1
+Room Name : Armory
+Target present in the room : false
+Neighbours : [Dining Hall, Drawing Room]
+Items in the room : []
+Players in the room: [Comp1]
+Items Carrying : [(ItemName=Revolver, value=3)]
+Target is present in Foyer
+Fortune the Cat present in the room : false
+
+Player and Target are not in the same room
+Player please play your turn. Your details are:
+Player : Comp1
+Room Name : Armory
+Target present in the room : false
+Neighbours : [Dining Hall, Drawing Room]
+Items in the room : []
+Players in the room: [Comp1]
+Items Carrying : [(ItemName=Revolver, value=3)]
+Target is present in Foyer
+Fortune the Cat present in the room : false
+
+Comp1 moved to Drawing Room Successfully.
+Player please play your turn. Your details are:
+Player : Comp2
+Room Name : Lilac Room
+Target present in the room : false
+Neighbours : [Lancaster Room, Master Suite, Servants' Quarters, Tennessee Room]
+Items in the room : [(ItemName=Tight Hat, value=2)]
+Players in the room: [Comp2]
+Items Carrying : []
+Target is present in Green House
+Fortune the Cat present in the room : false
+
+Player and Target are not in the same room
+Player please play your turn. Your details are:
+Player : Comp2
+Room Name : Lilac Room
+Target present in the room : false
+Neighbours : [Lancaster Room, Master Suite, Servants' Quarters, Tennessee Room]
+Items in the room : [(ItemName=Tight Hat, value=2)]
+Players in the room: [Comp2]
+Items Carrying : []
+Target is present in Green House
+Fortune the Cat present in the room : false
+
+Comp2 moved to Tennessee Room Successfully.
+Player please play your turn. Your details are:
+Player : Piazza
+Room Name : Piazza
+Target present in the room : false
+Neighbours : [Foyer, Hedge Maze, Winter Garden]
+Items in the room : [(ItemName=Civil War Cannon, value=3)]
+Players in the room: [Piazza]
+Items Carrying : []
+Target is present in Hedge Maze
+Fortune the Cat present in the room : false
+
+Piazza is present in Piazza
+Room Name : Piazza
+Target present in the room : false
+Neighbours : [Foyer, Hedge Maze, Winter Garden]
+Items in the room : [(ItemName=Civil War Cannon, value=3)]
+Players in the room: [Piazza]
+
+Neighbours are:
+1.
+Room Name : Foyer
+Target present in the room : false
+Neighbours : [Piazza]
+Items in the room : []
+Players in the room: []
+
+2.
+Room Name : Hedge Maze
+Target present in the room : true
+Neighbours : [Green House, Piazza]
+Items in the room : [(ItemName=Loud Noise, value=2)]
+Players in the room: []
+
+3.
+Room Name : Winter Garden
+Target present in the room : false
+Neighbours : [Carriage House, Piazza]
+Items in the room : []
+Players in the room: []
+
+
+Player please play your turn. Your details are:
+Player : Abhishek
+Room Name : Billiard Room
+Target present in the room : false
+Neighbours : [Armory, Dining Hall, Trophy Room]
+Items in the room : [(ItemName=Billiard Cue, value=2)]
+Players in the room: [Abhishek]
+Items Carrying : []
+Target is present in Kitchen
+Fortune the Cat present in the room : false
+
+Choose option:
+ShowWorldGraph:
+AddPlayer
+Move
+PickItem
+LookAround
+MovePet
+Attack
+Attack
+Enter the item to use:poke
+Player and Target are not in the same room
+Player please play your turn. Your details are:
+Player : Abhishek
+Room Name : Billiard Room
+Target present in the room : false
+Neighbours : [Armory, Dining Hall, Trophy Room]
+Items in the room : [(ItemName=Billiard Cue, value=2)]
+Players in the room: [Abhishek]
+Items Carrying : []
+Target is present in Kitchen
+Fortune the Cat present in the room : false
+
+Choose option:
+ShowWorldGraph:
+AddPlayer
+Move
+PickItem
+LookAround
+MovePet
+Attack
+MovePet
+Enter room name:
+Armory
+Fortune the Cat moved to Armory.
+Player please play your turn. Your details are:
+Player : Comp1
+Room Name : Drawing Room
+Target present in the room : false
+Neighbours : [Dining Hall, Armory, Foyer, Wine Cellar]
+Items in the room : [(ItemName=Letter Opener, value=2)]
+Players in the room: [Comp1]
+Items Carrying : [(ItemName=Revolver, value=3)]
+Target is present in Lancaster Room
+Fortune the Cat present in the room : false
+
+Player and Target are not in the same room
+Player please play your turn. Your details are:
+Player : Comp1
+Room Name : Drawing Room
+Target present in the room : false
+Neighbours : [Dining Hall, Armory, Foyer, Wine Cellar]
+Items in the room : [(ItemName=Letter Opener, value=2)]
+Players in the room: [Comp1]
+Items Carrying : [(ItemName=Revolver, value=3)]
+Target is present in Lancaster Room
+Fortune the Cat present in the room : false
+
+Comp1 is present in Drawing Room
+Room Name : Drawing Room
+Target present in the room : false
+Neighbours : [Dining Hall, Armory, Foyer, Wine Cellar]
+Items in the room : [(ItemName=Letter Opener, value=2)]
+Players in the room: [Comp1]
+
+Neighbours are:
+1.
+Room Name : Dining Hall
+Target present in the room : false
+Neighbours : [Armory, Drawing Room, Kitchen, Parlor, Tennessee Room, Trophy Room, Wine Cellar]
+Items in the room : []
+Players in the room: []
+
+2.
+Room Name : Armory
+Target present in the room : false
+Neighbours : [Dining Hall, Drawing Room]
+Items in the room : []
+Players in the room: []
+
+3.
+Room Name : Foyer
+Target present in the room : false
+Neighbours : [Drawing Room, Piazza]
+Items in the room : []
+Players in the room: []
+
+4.
+Room Name : Wine Cellar
+Target present in the room : false
+Neighbours : [Kitchen, Dining Hall, Drawing Room]
+Items in the room : [(ItemName=Rat Poison, value=2), (ItemName=Piece of Rope, value=2)]
+Players in the room: []
+
+
+Player please play your turn. Your details are:
+Player : Comp2
+Room Name : Tennessee Room
+Target present in the room : false
+Neighbours : [Lilac Room, Master Suite, Parlor, Trophy Room]
+Items in the room : []
+Players in the room: [Comp2]
+Items Carrying : []
+Target is present in Library
+Fortune the Cat present in the room : false
+
+Comp2 moved to Trophy Room Successfully.
+Player please play your turn. Your details are:
+Player : Piazza
+Room Name : Piazza
+Target present in the room : false
+Neighbours : [Foyer, Hedge Maze, Winter Garden]
+Items in the room : [(ItemName=Civil War Cannon, value=3)]
+Players in the room: [Piazza]
+Items Carrying : []
+Target is present in Lilac Room
+Fortune the Cat present in the room : false
+
+Piazza moved to Foyer Successfully.
+Player please play your turn. Your details are:
+Player : Abhishek
+Room Name : Billiard Room
+Target present in the room : false
+Neighbours : [Armory, Dining Hall, Trophy Room]
+Items in the room : [(ItemName=Billiard Cue, value=2)]
+Players in the room: [Abhishek]
+Items Carrying : []
+Target is present in Master Suite
+Fortune the Cat present in the room : false
+
+Choose option:
+ShowWorldGraph:
+AddPlayer
+Move
+PickItem
+LookAround
+MovePet
+Attack
+Attack
+Enter the item to use:poke
+Player and Target are not in the same room
+Player please play your turn. Your details are:
+Player : Abhishek
+Room Name : Billiard Room
+Target present in the room : false
+Neighbours : [Armory, Dining Hall, Trophy Room]
+Items in the room : [(ItemName=Billiard Cue, value=2)]
+Players in the room: [Abhishek]
+Items Carrying : []
+Target is present in Master Suite
+Fortune the Cat present in the room : false
+
+Choose option:
+ShowWorldGraph:
+AddPlayer
+Move
+PickItem
+LookAround
+MovePet
+Attack
+MovePet
+Enter room name:
+Armory
+Fortune the Cat moved to Armory.
+Player please play your turn. Your details are:
+Player : Comp1
+Room Name : Drawing Room
+Target present in the room : false
+Neighbours : [Dining Hall, Armory, Foyer, Wine Cellar]
+Items in the room : [(ItemName=Letter Opener, value=2)]
+Players in the room: [Comp1]
+Items Carrying : [(ItemName=Revolver, value=3)]
+Target is present in Nursery
+Fortune the Cat present in the room : false
+
+Something is wrong
+Player please play your turn. Your details are:
+Player : Comp1
+Room Name : Drawing Room
+Target present in the room : false
+Neighbours : [Dining Hall, Armory, Foyer, Wine Cellar]
+Items in the room : [(ItemName=Letter Opener, value=2)]
+Players in the room: [Comp1]
+Items Carrying : [(ItemName=Revolver, value=3)]
+Target is present in Nursery
+Fortune the Cat present in the room : false
+
+Player and Target are not in the same room
+Player please play your turn. Your details are:
+Player : Comp1
+Room Name : Drawing Room
+Target present in the room : false
+Neighbours : [Dining Hall, Armory, Foyer, Wine Cellar]
+Items in the room : [(ItemName=Letter Opener, value=2)]
+Players in the room: [Comp1]
+Items Carrying : [(ItemName=Revolver, value=3)]
+Target is present in Nursery
+Fortune the Cat present in the room : false
+
+Comp1 is present in Drawing Room
+Room Name : Drawing Room
+Target present in the room : false
+Neighbours : [Dining Hall, Armory, Foyer, Wine Cellar]
+Items in the room : [(ItemName=Letter Opener, value=2)]
+Players in the room: [Comp1]
+
+Neighbours are:
+1.
+Room Name : Dining Hall
+Target present in the room : false
+Neighbours : [Armory, Drawing Room, Kitchen, Parlor, Tennessee Room, Trophy Room, Wine Cellar]
+Items in the room : []
+Players in the room: []
+
+2.
+Room Name : Armory
+Target present in the room : false
+Neighbours : [Dining Hall, Drawing Room]
+Items in the room : []
+Players in the room: []
+
+3.
+Room Name : Foyer
+Target present in the room : false
+Neighbours : [Drawing Room, Piazza]
+Items in the room : []
+Players in the room: [Piazza]
+
+4.
+Room Name : Wine Cellar
+Target present in the room : false
+Neighbours : [Kitchen, Dining Hall, Drawing Room]
+Items in the room : [(ItemName=Rat Poison, value=2), (ItemName=Piece of Rope, value=2)]
+Players in the room: []
+
+
+Player please play your turn. Your details are:
+Player : Comp2
+Room Name : Trophy Room
+Target present in the room : false
+Neighbours : [Tennessee Room, Library, Billiard Room]
+Items in the room : [(ItemName=Duck Decoy, value=3), (ItemName=Monkey Hand, value=2)]
+Players in the room: [Comp2]
+Items Carrying : []
+Target is present in Parlor
+Fortune the Cat present in the room : false
+
+Comp2 picked up Duck Decoy Successfully.Player please play your turn. Your details are:
+Player : Piazza
+Room Name : Foyer
+Target present in the room : false
+Neighbours : [Piazza]
+Items in the room : []
+Players in the room: [Piazza]
+Items Carrying : []
+Target is present in Piazza
+Fortune the Cat present in the room : false
+
+Piazza moved to Piazza Successfully.
+Player please play your turn. Your details are:
+Player : Abhishek
+Room Name : Billiard Room
+Target present in the room : false
+Neighbours : [Armory, Dining Hall, Trophy Room]
+Items in the room : [(ItemName=Billiard Cue, value=2)]
+Players in the room: [Abhishek]
+Items Carrying : []
+Target is present in Servants' Quarters
+Fortune the Cat present in the room : false
+
+Choose option:
+ShowWorldGraph:
+AddPlayer
+Move
+PickItem
+LookAround
+MovePet
+Attack

@@ -1,0 +1,28 @@
+Choose option:
+ShowWorldGraph:
+AddPlayer
+Move
+PickItem
+LookAround
+MovePet
+Attack
+AddPlayer
+Enter Player's name:
+Comp1
+Enter the landing room for Comp1:Armory
+Enter Max Limit:
+2
+Are you a human: yes or nono
+Player Successfully Added.
+Player please play your turn. Your details are:
+Player : Comp1
+Room Name : Armory
+Target present in the room : true
+Neighbours : [Billiard Room, Dining Hall, Drawing Room]
+Items in the room : [(ItemName=Revolver, value=3)]
+Players in the room: [Comp1]
+Items Carrying : []
+Target is present in Armory
+Fortune the Cat present in the room : true
+
+Game Over!! Comp1 wins the game.
